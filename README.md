@@ -7,11 +7,11 @@ Interaktywny, internetowy odpowiednik klasycznej zabawki Magic 8 Ball — zadaj 
 
 ## 🌐 Live Demo  
 Zobacz działającą wersję online:  
-👉 [**https://jj99wrocc.github.io/Magic-8-ball/**](https://jj99wrocc.github.io/Magic-8-ball/)
+ [**https://jj99wrocc.github.io/Magic-8-ball/**](https://jj99wrocc.github.io/Magic-8-ball/)
 
 ---
 
-## 🧩 Funkcjonalności
+##  Funkcjonalności
 
 - **Zadawanie pytań:**  
   - Wprowadź pytanie w formularzu tekstowym.
@@ -31,7 +31,7 @@ Zobacz działającą wersję online:
 
 ---
 
-## 🛠 Technologie
+##  Technologie
 
 - **HTML5** – struktura i semantyka strony.  
 - **CSS / SCSS** – stylizacja i responsywność.  
@@ -40,7 +40,7 @@ Zobacz działającą wersję online:
 
 ---
 
-## 🚀 Uruchomienie lokalne
+##  Uruchomienie lokalne
 
 Projekt działa od razu w przeglądarce — bez potrzeby instalacji:
 
